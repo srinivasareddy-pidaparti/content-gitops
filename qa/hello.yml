@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: pidaparti/gitops:hellov1.0
+        image: pidaparti/gitops:hellov1.2
